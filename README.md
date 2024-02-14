@@ -7,4 +7,12 @@ https://doi.org/10.1101/2023.04.16.537056
 
 Code written by István Zachar in Wolfram Language 2022-2024. 
 
+Contents:
 
+## • Code for 2D simplex manipulation
+
+## • Analytic mean-field model (model definition and visualization)
+
+## • Analytic Configuration-field model (model definition and visualization)
+
+## • Individual-based stochastic lattice model (data parsing and visualization)
