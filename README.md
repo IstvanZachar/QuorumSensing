@@ -15,4 +15,3 @@ Contents:
 
 ## • Analytic Configuration-field model (model definition and visualization)
 
-## • Individual-based stochastic lattice model (data parsing and visualization)
